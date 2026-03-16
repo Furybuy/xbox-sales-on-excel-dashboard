@@ -1,9 +1,11 @@
 Xbox Game Pass Sales Analysis
 
 This project consists of a detailed analysis of Xbox Game Pass subscription sales, focusing on identifying revenue patterns, plan preferences, and the impact of additional services such as EA Play and the Minecraft Season Pass.
+
 📌 Project Overview
 
 The primary goal is to transform raw subscriber data into strategic business insights. Through data processing, we answer critical questions regarding total revenue, auto-renewal behavior, and the sales performance of bundled products.
+
 📊 Data Description
 
 The project utilizes a dataset structured into four main components:
